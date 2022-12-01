@@ -1,4 +1,4 @@
-ThinkStats2
+ThinkStats2 - All text below is by Allen B. Downey
 ===========
 
 [Order *Think Stats* from Amazon.com](http://amzn.to/1ljRCJH).
